@@ -1,6 +1,6 @@
 # url-shortener
 
-Esse repositório é uma modificação do projeto criado pela [Alexia Pereira](https://www.linkedin.com/in/alexiapereira/) de de um Encurtador de URL.
+Esse repositório é uma modificação do projeto criado pela [Alexia Pereira](https://www.linkedin.com/in/alexiapereira/) de um Encurtador de URL.
 
 
 
@@ -34,11 +34,12 @@ Esse repositório é uma modificação do projeto criado pela [Alexia Pereira](h
 - Download do [Insomnia](https://insomnia.rest/download)
 
 - POST com JSON: http://localhost:3000/shorten
+
   `{"originURL": "endereço da url original"}`
 
 
 
 ### GET através do navegador de internet
 
-- http://localhost:3000/`"hash obtido através do POST"`
+- http://localhost:3000/ `"hash obtido através do POST"`
 
